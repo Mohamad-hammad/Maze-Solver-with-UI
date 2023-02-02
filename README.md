@@ -1,5 +1,5 @@
 # Maze-Solver-with-UI
-Maze solver using BFS, DFS, Greedy and UCS. 
+Visualization of searching algorithms like BFS, DFS, Greedy and UCS in the form of maze solver.
 ## How to Run: ##
 * Open the code in Pycharm
 * Install following pacakges
